@@ -24,6 +24,3 @@ XGBoost (Scikit-learn)
 Results:
 Among the machine learning models used, the Random Forest algorithm achieved an outstanding accuracy rate of 95%. This high accuracy level is a testament to the power of machine learning in predicting heart diseases effectively.
 
-Dataset Source:
-The dataset used for this project can be accessed at the following link: https://www.kaggle.com/ronitf/heart-disease-uci.
-
